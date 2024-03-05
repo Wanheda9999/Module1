@@ -14,9 +14,5 @@ def ft_atoi(str):
     return sign * result
 
 
-nb = 12
-nb2 = nb + ft_atoi(" 1")
-print(nb2)
-
 
 
